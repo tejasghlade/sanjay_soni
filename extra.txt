@@ -1,0 +1,390 @@
+# Featured Section
+-----------------------------------------------------------
+
+    <!-- Todo (5) Featured -->
+    <section id="featured" class="featured_wrapper">
+      <h2 class="secondary-heading">Featured</h2>
+      <div class="featured-1">
+        <div class="row">
+          <div class="col-md-6 col-12 feature-left-side">
+            <p>
+              Sales Readiness of thousands of seller using Interactive virtual
+              Whiteboard Design sessions
+            </p>
+            <p style="padding-bottom: 20px">
+              Back to back presentations for four days at the Smart City
+              Conference - Connected cars and smart city AI and big data demo
+              presentations.
+            </p>
+
+            <a class="secondary-btn sec-btn-edit" href="#">
+              <span>Read More</span>
+              <span><i class="fa-solid fa-arrow-right"></i></span>
+            </a>
+          </div>
+          <div class="col-md-6 col-12 text-end">
+            <img
+              src="./images/featured-1.png"
+              class="img-fluid feature-img"
+              alt="feature-1"
+            />
+          </div>
+        </div>
+      </div>
+      <div class="profile-divider feature-divider"></div>
+      <div class="featured-2">
+        <div class="row">
+          <div class="col-md-6 col-12 text-start">
+            <img
+              src="./images/featured-2.png"
+              class="img-fluid feature-img"
+              alt="feature-1"
+            />
+          </div>
+          <div class="col-md-6 col-12 feature-left-side">
+            <p>DREAM Demos and DREAM Demo in a Box Overview</p>
+            <p style="padding-bottom: 20px">
+              Extensive experience in sales enablement & readiness of thousands
+              of global MS sellers, creating cross solution industry scenario
+              DREAM demos & deployable Demos with $200M+ ROI per year...
+            </p>
+
+            <a class="secondary-btn sec-btn-edit" href="#">
+              <span>Read More</span>
+              <span><i class="fa-solid fa-arrow-right"></i></span>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="profile-divider feature-divider"></div>
+      <div class="featured-3">
+        <div class="row">
+          <div class="col-md-6 col-12 feature-left-side">
+            <p>Azure Cosmos DB Multi Master Deep Dive (Concept + Demo)</p>
+            <p style="padding-bottom: 20px">
+              Developing globally distributed applications that respond with
+              local latencies while maintaining consistent views of data
+              worldwide is a challenging problem....
+            </p>
+
+            <a class="secondary-btn sec-btn-edit" href="#">
+              <span>Read More</span>
+              <span><i class="fa-solid fa-arrow-right"></i></span>
+            </a>
+          </div>
+          <div class="col-md-6 col-12 text-end">
+            <img
+              src="./images/featured-3.png"
+              class="img-fluid feature-img"
+              alt="feature-1"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Todo (5) Featured page exit-->
+---------------------------------------------------------------------------------
+
+
+----------------->
+# Industry Section
+----------------->
+
+   <!-- Todo (6) industry scenario dream demos -->
+    <section id="industry" class="industry">
+      <div class="row">
+        <div
+          class="col-md-6 col-12 d-flex flex-column justify-content-center align-items-center gap-5"
+        >
+          <h1 class="industry-heading">
+            Industry Scenario <br />
+            <span style="margin-top: 30px">DREAM Demos</span>
+          </h1>
+
+          <img
+            class="industry-img"
+            src="./images/industry_demo_1.png"
+            alt="industry-demo-1"
+          />
+          <img
+            class="industry-img pt-4"
+            style="margin-left: -60px"
+            src="./images/industry_demo_2.png"
+            alt="industry-demo-2"
+          />
+        </div>
+        <div
+          class="col-md-6 col-12 d-flex flex-column justify-content-center align-items-md-start align-items-center gap-5"
+        >
+          <img
+            class="industry-img"
+            src="./images/industry_demo_3.png"
+            alt="industry-demo-3"
+          />
+          <img
+            class="industry-img pt-4"
+            src="./images/industry_demo_4.png"
+            alt="industry-demo-4"
+          />
+          <a class="secondary-btn sec-btn-edit" href="#">
+            <span>Read More</span>
+            <span><i class="fa-solid fa-arrow-right"></i></span>
+          </a>
+        </div>
+      </div>
+    </section>
+    <!-- Todo (6) industry scenario dream demos Exit -->
+--------------------------------------------------------------X---->
+
+-------------------------->
+#Old Video Demo section
+-------------------------->
+        <!-- Todo (5) Demo Videos -->
+    <section id="demo">
+      <h1 class="heading">Demo Videos</h1>
+      <div>
+        <!-- Swiper -->
+        <div class="swiper mySwiper">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <video
+                id="my-video"
+                class="video-js"
+                controls="false"
+                fluid
+                preload="auto"
+                width="915px"
+                height="440px"
+                poster="MY_VIDEO_POSTER.jpg"
+                data-setup="{}"
+              >
+                <source
+                  src="https://assets.mixkit.co/videos/preview/mixkit-going-down-a-curved-highway-through-a-mountain-range-41576-large.mp4"
+                  type="video/mp4"
+                />
+
+                <p class="vjs-no-js">
+                  To view this video please enable JavaScript, and consider
+                  upgrading to a web browser that
+                  <a
+                    href="https://videojs.com/html5-video-support/"
+                    target="_blank"
+                    >supports HTML5 video</a
+                  >
+                </p>
+              </video>
+            </div>
+            <div class="swiper-slide">
+              <div class="row">
+                <div class="col-12">
+                  <img src="./images/demo_video_1_img1.png" alt="img1" />
+                </div>
+                <div class="col-12">
+                  <img src="./images/demo_video_1_img2.png" alt="img1" />
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <img src="./images/demo_video_1.png" alt="video-demo" />
+            </div>
+            <div class="swiper-slide">
+              <div class="row">
+                <div class="col-12">
+                  <img src="./images/demo_video_1_img1.png" alt="img1" />
+                </div>
+                <div class="col-12">
+                  <img src="./images/demo_video_1_img2.png" alt="img1" />
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide bg-danger">
+              <img src="./images/demo_video_2.png" alt="video-demo" />
+            </div>
+            <div class="swiper-slide">
+              <div class="row">
+                <div class="col-12">
+                  <img src="./images/demo_video_1_img1.png" alt="img1" />
+                </div>
+                <div class="col-12">
+                  <img src="./images/demo_video_1_img2.png" alt="img1" />
+                </div>
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <video
+                id="my-video"
+                class="video-js"
+                controls="false"
+                preload="auto"
+                width="100%"
+                height="440px"
+                poster="MY_VIDEO_POSTER.jpg"
+                data-setup="{}"
+              >
+                <source
+                  src="https://assets.mixkit.co/videos/preview/mixkit-going-down-a-curved-highway-through-a-mountain-range-41576-large.mp4"
+                  type="video/mp4"
+                />
+
+                <p class="vjs-no-js">
+                  To view this video please enable JavaScript, and consider
+                  upgrading to a web browser that
+                  <a
+                    href="https://videojs.com/html5-video-support/"
+                    target="_blank"
+                    >supports HTML5 video</a
+                  >
+                </p>
+              </video>
+            </div>
+            <div class="swiper-slide">
+              <div class="row">
+                <div class="col-12">
+                  <img src="./images/demo_video_1_img1.png" alt="img1" />
+                </div>
+                <div class="col-12">
+                  <img src="./images/demo_video_1_img2.png" alt="img1" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Todo (5) Demo Videos Exit -->
+
+<-------------------------x----------------------------x------------------------>
+
+# experience Temporary solution
+=================================
+
+ <!-- Todo (10) exp -->
+    <section id="experience" class="experience">
+      <h1>Experience</h1>
+      <div class="row">
+        <div class="col-md-6 col-12 text-end">
+          <img src="./images/exp-micro-1.png" class="exp-img-1" alt="micro-1" />
+        </div>
+        <div class="col-md-6 col-12">
+          <div class="row">
+            <div class="col-12">
+              <img src="./images/exp-2.png" class="exp-img-2" alt="exp-2" />
+            </div>
+            <div class="col-12">
+              <img src="./images/exp-3.png" class="exp-img-3" alt="exp-3" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Todo (10) exp exit -->
+
+========================================================================X===========>
+
+  <div class="col-md-4 col-12">
+                  <div
+                    class="testimonial-box testi-box-1"
+                    style="max-height: 478px; left: 154px; top: 33px"
+                  >
+                    <h3>Pankaj Satyaketu</h3>
+                    <h5 style="color: #f99130">
+                      Sales Lead - Microsoft Workloads at Amazon Web Services
+                      (AWS)
+                    </h5>
+                    <p class="testimonial-p-1">
+                      During my time at Microsoft, I relied on Sanjay and his
+                      team's enablement sessions for several years. As a Technical
+                      Specialist, Sanjay's content was key to enabling the
+                      thousands of global technical field resources on how to tell
+                      customer relatable stories to solve business challenges. As
+                      a Data & AI seller in the field, I continued to rely on
+                      Sanjay’s team enablement sessions, including his Industry
+                      specific demos and POC accelerators. In several instances
+                      Sanjay and his team customized the content specific to my
+                      customer and helped with the delivery. Sanjay’s approach to
+                      partnering with field resources such as myself directly
+                      resulted in winning deals. His approach to continuously
+                      innovating over time created some of the best enablement
+                      content, including being able to understand how to deliver
+                      the right content at the right time to the right audience.
+                    </p>
+                  </div>
+                </div>
+                <div class="col-md-4 col-12">
+                  <div
+                    class="testimonial-box testi-box-2"
+                    style="left: 585px; top: 32px"
+                  >
+                    <h3>Nabeel Derhem</h3>
+                    <h5 style="color: #f99130">
+                      Enterprise Data Solutions Engineering -North America CoE at
+                      Google
+                    </h5>
+                    <p>
+                      I collaborated directly with Sanjay for +2 years in my role
+                      as a WW Tech Lead in Data on WW field enablement. It's easy
+                      to call someone a hardworking individual, but Sanjay truly
+                      outshines most people I've worked with in that regard. The
+                      collaboration we had on creating enablement assets (e.g.
+                      events, conferences, and deployable technical/industry
+                      demos) had a positive impact on thousands of technical field
+                      sellers around the world.
+                    </p>
+                  </div>
+                </div>
+                <div class="col-md-4 col-12">
+                  <div
+                    class="testimonial-box testi-box-2"
+                    style="top: 29px; right: 171px"
+                  >
+                    <h3>Nabeel Derhem</h3>
+                    <h5 style="color: #f99130">
+                      Enterprise Data Solutions Engineering -North America CoE at
+                      Google
+                    </h5>
+                    <p>
+                      I collaborated directly with Sanjay for +2 years in my role
+                      as a WW Tech Lead in Data on WW field enablement. It's easy
+                      to call someone a hardworking individual, but Sanjay truly
+                      outshines most people I've worked with in that regard. The
+                      collaboration we had on creating enablement assets (e.g.
+                      events, conferences, and deployable technical/industry
+                      demos) had a positive impact on thousands of technical field
+                      sellers around the world.
+                    </p>
+                  </div>
+                </div>
+
+
+
+=======================================================x===========
+
+ <!-- Todo (8) personal travel -->
+
+    <!-- <section id="travel" class="travel">
+      <div class="travel-intro">
+        <h1>Personal / Travels</h1>
+
+        <p>
+          <span>My top 10 experience</span><br />
+          I believe that with passion, hard work, and gratitude... magic can
+          happen! Having been to 45 countries, I realized that <br />
+          we all are more alike than we are different. Let us enjoy and share
+          happy moments.
+        </p>
+      </div>
+      <div class="row">
+        <div class="col-12">
+          <img
+            class="travel-img"
+            src="./images/personal-travel-bg-temp.png"
+            alt="alternate"
+          />
+        </div>
+        <div class="testimonial-pagination travel-pagination">
+          <i class="fas fa-arrow-left pagination-arrow"></i>
+          <i class="fas fa-arrow-right pagination-arrow"></i>
+        </div>
+      </div>
+    </section> -->
+    <!-- Todo (8) personal travel exit  -->

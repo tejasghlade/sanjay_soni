@@ -1,0 +1,29 @@
+ <!-- Todo (8) personal travel -->
+
+    <!-- <section id="travel" class="travel">
+      <div class="travel-intro">
+        <h1>Personal / Travels</h1>
+
+        <p>
+          <span>My top 10 experience</span><br />
+          I believe that with passion, hard work, and gratitude... magic can
+          happen! Having been to 45 countries, I realized that <br />
+          we all are more alike than we are different. Let us enjoy and share
+          happy moments.
+        </p>
+      </div>
+      <div class="row">
+        <div class="col-12">
+          <img
+            class="travel-img"
+            src="./images/personal-travel-bg-temp.png"
+            alt="alternate"
+          />
+        </div>
+        <div class="testimonial-pagination travel-pagination">
+          <i class="fas fa-arrow-left pagination-arrow"></i>
+          <i class="fas fa-arrow-right pagination-arrow"></i>
+        </div>
+      </div>
+    </section> -->
+    <!-- Todo (8) personal travel exit  -->

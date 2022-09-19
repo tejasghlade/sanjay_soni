@@ -1,0 +1,636 @@
+/* Demo videos section */
+@media screen and (max-width: 800px) {
+  #first_video {
+    width: 25rem;
+    padding-bottom: 9px;
+    padding-top: 9px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0 auto;
+
+    margin-left: -17px;
+  }
+
+  .demo_video_bg_img {
+    width: 0;
+    height: 24rem;
+  }
+
+  .video_demo_position_sec {
+    background: #008ecf;
+    padding-bottom: 22px;
+  }
+
+  div.col-md-12:nth-child(1) > a:nth-child(2) {
+    display: none;
+  }
+
+  div.col-md-12:nth-child(2) > a:nth-child(2) {
+    display: none;
+  }
+
+  .second_video {
+    margin: 0;
+    padding: 0;
+    margin-left: -16px;
+    width: 12rem;
+  }
+
+  .demo_video_first_heading {
+    /* display: none; */
+  }
+
+  .third_video {
+    margin: 0;
+    width: 12rem;
+    top: -131px;
+    left: 194px;
+  }
+
+  .play-button {
+    /* bottom: 50px; */
+    /* left: 55px; */
+    bottom: 26px;
+    left: 4px;
+  }
+
+  #videoIcon {
+    font-size: 3rem;
+  }
+
+
+
+.exp-img-1 {
+  /* width: 35rem; */
+  width: 24rem !important;
+  margin-bottom: 7px;
+}
+
+
+#experience {
+  padding-left: 010px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+.exp-img-2 {
+  /* width: 34rem; */
+  width: 25rem !important;
+  margin-top: 20px !important;
+  margin-bottom: 0;
+}
+
+
+.exp-img-3 {
+  /* width: 34rem; */
+  /* margin-top: 10px; */
+  width: 25rem !important;
+  margin-top: 30px !important;
+  margin-bottom: 50px !important;
+  
+}
+
+
+
+#connect h1 {
+  /* font-size: 3rem; */
+  font-size: 2.5rem !important;
+}
+
+#connect img {
+  /* width: 14%; */
+  width: 54% !important;
+}
+
+
+/* Element | http://localhost:5500/ */
+
+.profile-para {
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+/* style.css | http://localhost:5500/css/style.css */
+
+.profile-name {
+  /* font-size: 55px; */
+  font-size: 49px;
+}
+
+.about-me-right-section h3 {
+  margin-top: 24px;
+}
+
+.accomplish-image {
+  /* height: 25rem; */
+  height: 20rem;
+}
+
+/* Element | http://localhost:5500/ */
+
+.profile-social-icons > a:nth-child(1) > img:nth-child(1) {
+  /* width: 80%; */
+  width: 70%;
+}
+
+/* Element | http://localhost:5500/ */
+
+.about-image {
+  /* margin-bottom: 22px; */
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-bottom: 0px;
+}
+
+/* Element | http://localhost:5500/ */
+
+.about-me-right-section > p:nth-child(2) {
+  padding-right: 0px;
+}
+
+/* Element | http://localhost:5500/ */
+
+.about-me-right-section > p:nth-child(3) {
+  padding-right: 0px;
+}
+
+/* Element | http://localhost:5500/ */
+
+.about-me-right-section > p:nth-child(4) {
+  padding-right: 0px;
+}
+
+/* Element | http://localhost:5500/ */
+
+div.carousel-item:nth-child(4) > img:nth-child(1) {
+  padding-top: 30px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+/* Element | http://localhost:5500/ */
+
+.accomplish-right-side {
+  padding-right: 0px;
+}
+
+
+/* style.css | http://localhost:5500/css/style.css */
+
+.second-section-video {
+  width: 25rem;
+  padding-bottom: 9px;
+  padding-top: 9px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin: 0 auto;
+  margin-left: auto;
+  margin-left: -17px;
+}
+
+
+
+.play-button i {
+  /* font-size: 6rem; */
+  font-size: 3rem;
+}
+
+
+/* Element | http://localhost:5500/ */
+
+
+/* !  text hide */
+
+
+/* Element | http://localhost:5500/ */
+
+#third_video {
+  width: 25rem;
+  padding-bottom: 9px;
+  padding-top: 9px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin: 0 auto;
+  margin-left: auto;
+  margin-left: auto;
+  margin-left: -17px;
+}
+
+
+/* Element | http://localhost:5500/ */
+
+.\31 st_heading {
+
+  transform: none;
+  justify-content: end;
+  padding-right: 10px;
+  font-size: 2rem;
+  margin-left: 0px;
+}
+
+
+/* Element | http://localhost:5500/ */
+
+.\32 nd-heading {
+  transform: none;
+  margin-left: 0;
+  font-size: 2rem;
+  padding-left: 10px;
+  justify-content: start;
+}
+
+
+/* Element | http://localhost:5500/ */
+
+.\33 rd-heading {
+  /* margin-top: 73px; */
+  margin-top: 0px;
+  transform: none;
+  margin-left: 0;
+  padding-right: 10px;
+  font-size: 2rem;
+  justify-content: end;
+}
+
+
+/* Element | http://localhost:5500/ */
+
+.\34 th-heading {
+  font-size: 2rem;
+  transform: none;
+  padding-left: 10px;
+  margin-left: 0px;
+  justify-content: start;
+}
+
+/* Element | http://localhost:5500/ */
+
+.\33 rd-heading {
+  /* margin-top: 73px; */
+  margin-top: 0px;
+}
+
+/* Element | http://localhost:5500/ */
+
+
+/* responsive-style.css | http://localhost:5500/css/responsive-style.css?_cacheOverride=1663278709118 */
+
+
+/* all.min.css | https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css */
+
+.fa-circle-play::before, .fa-play-circle::before {
+  background: ;
+  color: rgba(0,0,o,aquamarine);
+  color: #ECECEC;
+}
+
+/* responsive-style.css | http://127.0.0.1:5500/css/responsive-style.css */
+
+
+  .\32 nd-heading {
+    /* font-size: 2rem; */
+    /* justify-content: start; */
+    font-size: 1.4rem;
+    justify-content: center;
+  }
+  .\31 st_heading {
+    /* justify-content: end; */
+    /* font-size: 2rem; */
+    font-size: 1.4rem;
+  }
+  .\33 rd-heading {
+    font-size: 1.4rem;
+    justify-content: center;
+  }
+  .\34 th-heading {
+    /* font-size: 2rem; */
+    /* justify-content: start; */
+    font-size: 1.4rem;
+    justify-content: center;
+  }
+
+
+/* style.css | http://127.0.0.1:5500/css/style.css */
+
+.accomplish-heading {
+  padding-left: 0px;
+}
+
+
+.\31 st_heading {
+  margin-left: 0px;
+}
+
+
+
+
+
+/* Element | http://127.0.0.1:5500/index.html#about */
+
+.demo_videos_heading {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+/* Element | http://127.0.0.1:5500/index.html#about */
+
+div.justify-content-md-end:nth-child(1) > h1:nth-child(1) {
+  padding-right: 0px;
+  margin-right: 0px;
+}
+
+/* Element | http://127.0.0.1:5500/index.html#about */
+
+div.justify-content-md-end:nth-child(2) > img:nth-child(1) {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin: 0 auto;
+}
+
+
+/* Element | http://127.0.0.1:5500/index.html#about */
+
+div.justify-content-md-end:nth-child(2) {
+  display: none;
+}
+
+/* Element | http://127.0.0.1:5500/index.html#about */
+
+div.justify-content-md-end:nth-child(2) > img:nth-child(1) {
+  display: none;
+}
+
+/* Element | http://127.0.0.1:5500/index.html#about */
+
+div.mirror:nth-child(2) > div:nth-child(2) > img:nth-child(1) {
+  display: none;
+}
+
+/* Element | http://127.0.0.1:5500/index.html#about */
+
+div.justify-content-end:nth-child(2) > img:nth-child(1) {
+  display: none;
+}
+
+/* Element | http://127.0.0.1:5500/index.html#about */
+
+div.row:nth-child(4) > div:nth-child(2) > img:nth-child(1) {
+  display: none;
+}
+
+.res-p {
+  font-size: 13px;
+}
+
+
+/* style.css | http://127.0.0.1:5500/css/style.css */
+
+.exp-heading {
+  /* font-size: 3rem; */
+  /* margin-bottom: 50px; */
+  font-size: 2rem;
+  margin-bottom: 32px;
+}
+
+/* Element | http://127.0.0.1:5500/index.html#about */
+
+.exp-heading {
+  margin-top: 20px;
+}
+
+
+/* Element | http://127.0.0.1:5500/index.html#about */
+
+div.row:nth-child(4) > div:nth-child(1) > h1:nth-child(1) {
+  margin-left: 0px;
+  padding-left: 51px;
+}
+
+
+/* style.css | http://127.0.0.1:5500/css/style.css */
+
+.accomplishment-img-bg {
+  /* background-size: 60%; */
+  background-size: 95%;
+}
+
+/* responsive-style.css | http://127.0.0.1:5500/css/responsive-style.css */
+
+@media screen and (max-width: 800px) {
+  .accomplish-image {
+    /* height: 20rem; */
+    height: 24rem;
+  }
+}
+
+/* Element | http://127.0.0.1:5500/index.html#about */
+
+/* div.carousel-inner:nth-child(2) > div:nth-child(1) > img:nth-child(1) { */
+div.active:nth-child(1) > img:nth-child(1) {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/* Element | http://127.0.0.1:5500/index.html#about */
+
+.accomplishment-img-bg {
+  padding-bottom: 73px;
+}
+
+.profile-name {
+  font-size: 49px;
+  font-size: 44px;
+  }
+
+
+/* responsive-style.css | http://127.0.0.1:5500/css/responsive-style.css?_cacheOverride=1663336221260 */
+
+
+  .fa-circle-play::before, .fa-play-circle::before {
+    /* color: rgba(236,236m); */
+    color: rgba(236,236,236,0.5);
+    font-size: 2.5rem;
+  }
+
+  .navbar {
+    padding-left: 10px;
+    padding-right: 10px;
+   }
+
+ 
+
+/* Element | http://127.0.0.1:5500/index.html#experience */
+
+a.second_video_corner:nth-child(3) {
+  left: -16px;
+  right: unset;
+  padding: 4px 10px;
+}
+
+
+/* Element | http://localhost:5500/ */
+
+#demo_videos > div:nth-child(2) > div:nth-child(1) > div:nth-child(4) > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) > a:nth-child(3) {
+  right: -38px;
+  left: auto;
+  top: -44px;
+  bottom: auto;
+}
+
+.s-demo-arrow {
+  right: -38px;
+  left: auto;
+  top: -44px;
+  bottom: auto;
+}
+
+
+
+/* Element | http://localhost:5500/ */
+
+div.mirror:nth-child(2) > div:nth-child(3) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > a:nth-child(3) {
+  right: -38px;
+  left: auto;
+  top: -44px;
+  bottom: auto;
+}
+
+/* Element | http://localhost:5500/ */
+
+div.row:nth-child(3) > div:nth-child(4) > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) > a:nth-child(3) {
+  right: -38px;
+  left: auto;
+  top: -44px;
+  bottom: auto;
+}
+
+/* Element | http://localhost:5500/ */
+
+div.row:nth-child(4) > div:nth-child(3) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > a:nth-child(3) {
+  right: -38px;
+  left: auto;
+  top: -44px;
+  bottom: auto;
+}
+
+
+/* responsive-style.css | http://127.0.0.1:5500/css/responsive-style.css */
+
+@media screen and (max-width: 800px) {
+  @media screen and (max-width: 800px) {
+    .accomplish-image {
+      /* height: 24rem; */
+      height: 31rem;
+    }
+  }
+}
+
+/* Element | http://127.0.0.1:5500/ */
+
+.accomplishment-img-bg {
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+}
+
+/* style.css | http://127.0.0.1:5500/css/style.css */
+
+button.position-absolute:nth-child(2) > i:nth-child(1) {
+  /* padding: 10px; */
+  padding: 4px;
+}
+
+button.position-absolute:nth-child(1) {
+  /* left: 89px; */
+  left: -14px;
+}
+
+/* Element | http://127.0.0.1:5500/ */
+
+button.position-absolute:nth-child(2) {
+  right: -9px;
+}
+
+/* Element | http://127.0.0.1:5500/ */
+
+button.position-absolute:nth-child(1) > i:nth-child(1) {
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+/* Element | http://127.0.0.1:5500/ */
+
+.accomplish-heading {
+  padding-bottom: 0px;
+}
+
+/* Element | http://127.0.0.1:5500/ */
+
+#accomplish > div:nth-child(1) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(1) {
+  /* padding-top: 5px; */
+  padding-top: 0px;
+}
+
+/* Element | http://127.0.0.1:5500/ */
+
+p.text-md-start:nth-child(2) {
+  margin-bottom: 10px;
+}
+
+/* Element | http://127.0.0.1:5500/ */
+
+p.text-md-start:nth-child(3) {
+  margin-bottom: 10px;
+}
+
+/* Element | http://127.0.0.1:5500/ */
+
+p.text-md-start:nth-child(4) {
+  margin-bottom: 10px;
+}
+
+/* Element | http://127.0.0.1:5500/ */
+
+#accomplish > div:nth-child(1) > div:nth-child(2) > ul:nth-child(1) > li:nth-child(2) > ul:nth-child(1) {
+  padding-left: 20px;
+}
+
+
+/* Element | http://127.0.0.1:5500/index.html */
+
+/* #carouselExampleInterval > div:nth-child(1) > div:nth-child(1) > img:nth-child(1) { */
+  div.active:nth-child(1) > img:nth-child(1) {
+    padding-bottom: 80px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 80px;
+  }
+  
+  /* responsive-style.css | http://127.0.0.1:5500/css/responsive-style.css */
+  
+  @media screen and (max-width: 800px) {
+    button.position-absolute:nth-child(2) > i:nth-child(1) {
+      /* padding: 4px; */
+      padding: 3px;
+    }
+  }
+  
+
+   
+}
+
+
+
+
+
+
